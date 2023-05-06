@@ -1,3 +1,5 @@
+# Step-by-Step Guide: Setting Up CI/CD for AWS SAM Applications with GitHub Actions
+
 ## Introduction
 
 Over the years, the adoption of serverless applications has increased significantly. This has enabled startups to iterate more quickly by deploying proof of concepts and code without having to handle much of the cloud infrastructure. Additionally, serverless applications can help reduce costs because you only pay for the resources you use, rather than paying a fixed cost for running cloud resources 24/7.
