@@ -12,3 +12,4 @@ This repository serves as a compilation of my previous and future developer blog
   - [hashnode](https://kshyun28.hashnode.dev/my-6-takeaways-from-hashnode-bootcamp-2023-as-a-beginner-writer)
 - [My First Open Source Contribution: How I Did It](blogs/my-first-open-source-contribution/blog.md)
   - [dev.to](https://dev.to/kshyun28/my-first-open-source-contribution-how-i-did-it-1jh6)
+  - [hashnode](https://kshyun28.hashnode.dev/my-first-open-source-contribution-how-i-did-it)
