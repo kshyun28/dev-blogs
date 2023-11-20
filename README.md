@@ -21,3 +21,6 @@ This repository serves as a compilation of my previous and future developer blog
   - [dev.to](https://dev.to/kshyun28/openai-devday-and-github-universe-2023-what-it-means-for-us-software-engineers-297e)
   - [hashnode](https://kshyun28.hashnode.dev/openai-devday-and-github-universe-2023-what-it-means-for-us-software-engineers)
   - [medium](https://medium.com/@kshyun28/openai-devday-and-github-universe-2023-what-it-means-for-us-software-engineers-eb5463d14335)
+- [How to Implement and Deploy a Smart Contract Event Listener with AWS CDK](blogs/6/blog.md)
+  - [dev.to](https://dev.to/kshyun28/how-to-implement-and-deploy-a-smart-contract-event-listener-with-aws-cdk-b1)
+  - [hashnode](https://kshyun28.hashnode.dev/how-to-implement-and-deploy-a-smart-contract-event-listener-with-aws-cdk)
