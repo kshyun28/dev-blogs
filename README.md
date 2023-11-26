@@ -24,3 +24,7 @@ This repository serves as a compilation of my previous and future developer blog
 - [How to Implement and Deploy a Smart Contract Event Listener with AWS CDK](blogs/6/blog.md)
   - [dev.to](https://dev.to/kshyun28/how-to-implement-and-deploy-a-smart-contract-event-listener-with-aws-cdk-b1)
   - [hashnode](https://kshyun28.hashnode.dev/how-to-implement-and-deploy-a-smart-contract-event-listener-with-aws-cdk)
+- [How I Contributed One Line of Code to Ethereum](blogs/7/blog.md)
+  - [dev.to](https://dev.to/kshyun28/how-i-contributed-one-line-of-code-to-ethereum-3poh)
+  - [hashnode](https://kshyun28.hashnode.dev/how-i-contributed-one-line-of-code-to-ethereum)
+  - [medium](https://medium.com/@kshyun28/how-i-contributed-one-line-of-code-to-ethereum-0aca9edb55fb)
