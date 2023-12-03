@@ -28,3 +28,7 @@ This repository serves as a compilation of my previous and future developer blog
   - [dev.to](https://dev.to/kshyun28/how-i-contributed-one-line-of-code-to-ethereum-3poh)
   - [hashnode](https://kshyun28.hashnode.dev/how-i-contributed-one-line-of-code-to-ethereum)
   - [medium](https://medium.com/@kshyun28/how-i-contributed-one-line-of-code-to-ethereum-0aca9edb55fb)
+- [A Developer's Journal: Simplifying the Twelve-Factor App](blogs/8/blog.md)
+  - [dev.to](https://dev.to/kshyun28/a-developers-journal-simplifying-the-twelve-factor-app-25o)
+  - [hashnode](https://kshyun28.hashnode.dev/a-developers-journal-simplifying-the-twelve-factor-app)
+  - [medium](https://medium.com/@kshyun28/a-developers-journal-simplifying-the-twelve-factor-app-a1f0f4d6490e)
