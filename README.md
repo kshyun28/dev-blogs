@@ -32,3 +32,7 @@ This repository serves as a compilation of my previous and future developer blog
   - [dev.to](https://dev.to/kshyun28/a-developers-journal-simplifying-the-twelve-factor-app-25o)
   - [hashnode](https://kshyun28.hashnode.dev/a-developers-journal-simplifying-the-twelve-factor-app)
   - [medium](https://medium.com/@kshyun28/a-developers-journal-simplifying-the-twelve-factor-app-a1f0f4d6490e)
+- [Starting My AWS Certification Journey as a Certified Cloud Practitioner](blogs/9/blog.md)
+  - [dev.to](https://dev.to/kshyun28/starting-my-aws-certification-journey-as-a-certified-cloud-practitioner-5cec)
+  - [hashnode](https://kshyun28.hashnode.dev/starting-my-aws-certification-journey-as-a-certified-cloud-practitioner)
+  - [medium](https://medium.com/@kshyun28/starting-my-aws-certification-journey-as-a-certified-cloud-practitioner-d4f47fda2940)
