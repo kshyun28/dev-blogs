@@ -36,3 +36,7 @@ This repository serves as a compilation of my previous and future developer blog
   - [dev.to](https://dev.to/kshyun28/starting-my-aws-certification-journey-as-a-certified-cloud-practitioner-5cec)
   - [hashnode](https://kshyun28.hashnode.dev/starting-my-aws-certification-journey-as-a-certified-cloud-practitioner)
   - [medium](https://medium.com/@kshyun28/starting-my-aws-certification-journey-as-a-certified-cloud-practitioner-d4f47fda2940)
+- [5 Things I’ve Learned from the AWS Startups Build Accelerator 2023](blogs/10/blog.md)
+  - [dev.to](https://dev.to/kshyun28/5-things-ive-learned-from-the-aws-startups-build-accelerator-2023-5dml)
+  - [hashnode](https://kshyun28.hashnode.dev/5-things-ive-learned-from-the-aws-startups-build-accelerator-2023)
+  - [medium](https://medium.com/@kshyun28/5-things-ive-learned-from-the-aws-startups-build-accelerator-2023-b3f432d6b28f)
