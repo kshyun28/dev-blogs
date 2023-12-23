@@ -40,3 +40,6 @@ This repository serves as a compilation of my previous and future developer blog
   - [dev.to](https://dev.to/kshyun28/5-things-ive-learned-from-the-aws-startups-build-accelerator-2023-5dml)
   - [hashnode](https://kshyun28.hashnode.dev/5-things-ive-learned-from-the-aws-startups-build-accelerator-2023)
   - [medium](https://medium.com/@kshyun28/5-things-ive-learned-from-the-aws-startups-build-accelerator-2023-b3f432d6b28f)
+- [How to Create Real-Time Alerts for Blockchain Events with AWS and QuickNode](blogs/11/blog.md)
+  - [dev.to](https://dev.to/kshyun28/how-to-create-real-time-alerts-for-blockchain-events-with-aws-and-quicknode-23oe)
+  - [hashnode](https://kshyun28.hashnode.dev/how-to-create-real-time-alerts-for-blockchain-events-with-aws-and-quicknode)
