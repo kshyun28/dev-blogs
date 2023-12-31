@@ -43,3 +43,5 @@ This repository serves as a compilation of my previous and future developer blog
 - [How to Create Real-Time Alerts for Blockchain Events with AWS and QuickNode](blogs/11/blog.md)
   - [dev.to](https://dev.to/kshyun28/how-to-create-real-time-alerts-for-blockchain-events-with-aws-and-quicknode-23oe)
   - [hashnode](https://kshyun28.hashnode.dev/how-to-create-real-time-alerts-for-blockchain-events-with-aws-and-quicknode)
+- [Reflections and Goal Setting as a Software Engineer](blogs/12/blog.md)
+  - [dev.to](https://dev.to/kshyun28/reflections-and-goal-setting-as-a-software-engineer-4ddg)
