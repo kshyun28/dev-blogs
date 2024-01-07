@@ -45,3 +45,5 @@ This repository serves as a compilation of my previous and future developer blog
   - [hashnode](https://kshyun28.hashnode.dev/how-to-create-real-time-alerts-for-blockchain-events-with-aws-and-quicknode)
 - [Reflections and Goal Setting as a Software Engineer](blogs/12/blog.md)
   - [dev.to](https://dev.to/kshyun28/reflections-and-goal-setting-as-a-software-engineer-4ddg)
+- [How to Make Your Awesome GitHub Profile](blogs/12/blog.md)
+  - [dev.to](https://dev.to/kshyun28/how-to-make-your-awesome-github-profile-hog)
