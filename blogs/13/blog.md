@@ -67,7 +67,7 @@ You can also check out [my profile](https://github.com/kshyun28) for some ideas.
 
 ### Adding Badges
 
-For adding badges to your profile, you can check out [markdown-badges](https://github.com/Ileriayo/markdown-badges). The repository has a wide selection to choose from, ranging from programming languages to streaming platforms like Netflix.
+For adding badges to your profile, you can check out [markdown-badges](https://github.com/Ileriayo/markdown-badges). The repository has a wide selection of badges to choose from, ranging from programming languages to streaming platforms like Netflix.
 
 If you can't find what you're looking for or want to create custom badges, you can go to [shields.io](https://shields.io/), which is what [markdown-badges](https://github.com/Ileriayo/markdown-badges) use. 
 
