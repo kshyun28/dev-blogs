@@ -30,7 +30,7 @@ Now that you have a GitHub profile, it's time to get creative!
 
 The key here is to **let your personality show** on your profile. Your GitHub profile doesn't have to be too formal like LinkedIn.
 
-I'd also suggest starting simple. This helps get your GitHub profile up and running. You can always improve your profile later when you have new ideas.
+I'd also suggest **starting simple**. This helps get your GitHub profile up and running. You can always improve your profile later when you have new ideas.
 
 ### GitHub Flavored Markdown, Formatting, and HTML
 
@@ -122,6 +122,23 @@ Adding random quotes to your profile can add a nice touch for visitors. I found 
 Here's what it looks like on my profile. I personally like to add quotes to provide some value to my profile visitors.
 ![Quotes example](https://res.cloudinary.com/dlieqpdfd/image/upload/v1704616185/GitHub%20Profile/quote-example_dfvjrh.png)
 
+### Improving Accessibility
+
+When customizing your profile, make sure that it is **viewable by as many people as possible**. Not everyone can view or load images. Some people have disabilities, while others have slow internet connections.
+
+One way you can improve the [accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility) of your profile is by adding descriptive `alt text` to your images.
+```markdown
+<!-- Markdown Image -->
+![Image Alt Text](image-source)
+<!-- HTML Image Tag -->
+<img alt="Image Alt Text" src="image-source" />
+```
+
+Then to test your profile's accessibility, you can try to disable image loading on your web browser. Here's a [guide](https://www.wikihow.com/Disable-Images-in-Google-Chrome) on how to disable image loading for Google Chrome.
+
+Here's what my profile looks like with image loading disabled on Google Chrome.
+![GitHub profile accessibility example](https://res.cloudinary.com/dlieqpdfd/image/upload/v1704717170/GitHub%20Profile/github-profile-accessibility_vixcg8.png)
+
 ### More Ideas
 
 For adding more infographics to your profile, I recommend checking out [metrics](https://github.com/lowlighter/metrics). This is one of the most starred repositories on GitHub with the `github-profile` topic, so I couldn't leave this out.
@@ -164,6 +181,8 @@ Thank you for reading and feel free to comment or connect with me [here](https:/
 - [GitHub's Emoji API](https://docs.github.com/en/rest/emojis/emojis#get-emojis)
 - [github-readme-stats repository](https://github.com/anuraghazra/github-readme-stats)
 - [github-readme-quotes repository](https://github.com/PiyushSuthar/github-readme-quotes)
+- [MDN: What is accessibility?](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility)
+- [Disable Images in Google Chrome](https://www.wikihow.com/Disable-Images-in-Google-Chrome)
 - [metrics repository](https://github.com/lowlighter/metrics)
 - [beautify-github-profile repository](https://github.com/rzashakeri/beautify-github-profile)
 - [repositories with "github-profile" topic](https://github.com/topics/github-profile)
